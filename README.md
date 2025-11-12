@@ -5,7 +5,7 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 
 ---
 
-## 🧠 Skills & Tech Stack
+## Skills & Tech Stack
 
 - **Languages:** Python, SQL, JavaScript (basic), HTML
 - **ML & Data Science:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn
@@ -16,9 +16,9 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-### 🏥 Heart Failure Prediction  
+###  Heart Failure Prediction  
 **Repo:** [heart_failure](https://github.com/Hritik827/heart_failure)  
 
 - Built a machine learning model using clinical records to **predict risk of heart failure**.  
@@ -27,7 +27,7 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 
 ---
 
-### 💸 Medical Insurance Cost Prediction  
+###  Medical Insurance Cost Prediction  
 **Repo:** [medical_cost_project](https://github.com/Hritik827/medical_cost_project)  
 
 - Predicts **medical insurance charges** based on features like age, BMI, region, and smoking status.  
@@ -36,7 +36,7 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 
 ---
 
-### 🌱 Cocoa Leaf Disease Detection (Computer Vision)  
+### Cocoa Leaf Disease Detection (Computer Vision)  
 **Repo:** [Cocoa_Leaf_Disease_Detection](https://github.com/Hritik827/Cocoa_Leaf_Disease_Detection)  
 
 - Developed a **deep learning–based image classifier** for cocoa leaf diseases (e.g., healthy vs. Anthracnose vs. CSSVD). :contentReference[oaicite:0]{index=0}  
@@ -45,7 +45,7 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 
 ---
 
-### 🧾 Resume Classification (NLP Application)  
+###  Resume Classification (NLP Application)  
 **Repo:** [Resume-Classification](https://github.com/Hritik827/Resume-Classification)  
 
 - Built an **NLP model to categorize resumes** into different job/skill categories. :contentReference[oaicite:1]{index=1}  
@@ -54,7 +54,7 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 
 ---
 
-### 🛠️ Predictive Maintenance – Machine Failure Prediction  
+###  Predictive Maintenance – Machine Failure Prediction  
 **Repo:** [Predictive-Maintenance-Machine-Failure-Prediction](https://github.com/Hritik827/Predictive-Maintenance-Machine-Failure-Prediction)  
 
 - End-to-end **predictive maintenance system** using a **Random Forest model** to detect machine failures from sensor data. :contentReference[oaicite:2]{index=2}  
@@ -63,7 +63,7 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 
 ---
 
-### 💻 Other Notable Repositories
+###  Other Notable Repositories
 
 - [beginning-bioinfomatics](https://github.com/Hritik827/beginning-bioinfomatics) – Practice notebooks for bioinformatics basics. :contentReference[oaicite:3]{index=3}  
 - [Apple-Stock-prediction-Project](https://github.com/Hritik827/Apple-Stock-prediction-Project) – Time series forecasting on Apple stock data. :contentReference[oaicite:4]{index=4}  
@@ -72,7 +72,7 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 
 ---
 
-## 📊 What I Like Working On
+##  What I Like Working On
 
 - Turning **ML models into real applications** that non-technical users can interact with  
 - **Healthcare & medical AI projects** (risk prediction, diagnostics support, cost modeling)  
@@ -81,10 +81,10 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 
 ---
 
-## 📬 Let’s Connect
+##  Let’s Connect
 
-- 💼 GitHub: [github.com/Hritik827](https://github.com/Hritik827)
-- 🔗 LinkedIn: *(add your LinkedIn link here)*
-- 📧 Email: *(add your preferred email here)*
+-  GitHub: [github.com/Hritik827](https://github.com/Hritik827)
+-  LinkedIn: https://www.linkedin.com/in/hritikvp/
+-  Email: hritikvivekpatil@gmail.com
 
 I’m always open to collaborating on **ML, data science, and healthcare AI projects** 🙂
