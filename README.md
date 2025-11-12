@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Hritik Patil
+#  Hi, I’m Hritik Patil
 
 I’m a Data Science graduate student with a strong interest in **machine learning, healthcare analytics, and real-world ML deployment**.  
 I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them into **deployable apps** using tools like Streamlit and Flask.
@@ -87,4 +87,4 @@ I enjoy taking raw datasets, building end-to-end ML pipelines, and turning them 
 -  LinkedIn: https://www.linkedin.com/in/hritikvp/
 -  Email: hritikvivekpatil@gmail.com
 
-I’m always open to collaborating on **ML, data science, and healthcare AI projects** 🙂
+I’m always open to collaborating on **ML, data science, and healthcare AI projects** 
